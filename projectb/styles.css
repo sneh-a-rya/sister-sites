@@ -1,0 +1,255 @@
+h1 {
+  font-size: 50px;
+  color: purple;
+}
+h2 {
+  font-size: 30px;
+}
+#cupcake {
+  height: 300px;
+  width: 250px;
+  border-radius: 50%;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+#cake {
+  height: 300px;
+  width: 250px;
+  border-radius: 30%;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+#cococookie {
+  height: 300px;
+  width: 250px;
+  border-radius: 90%;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+#cocobrownie {
+  height: 300px;
+  width: 250px;
+  border-radius: 50%;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+#muffin {
+  height: 300px;
+  width: 250px;
+  border-radius: 20%;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+#cuptext,#cktext,#ccbtext {
+  margin-left: 90px;
+  color: mediumpurple;
+}
+
+#cctext,#mftext,#ccbtext,#optext,#brtext,#sptext,#tctext,#ftctext,#lptext,#occtext,#pptext,#pbptext,#bbdtext,#fttext,#bmtext,#crtext,#bgtext,#apptext,#ftbtext,#ptbtext,#mgctext,#lyctext,#pdbtext,#cmptext,#cmbtext,#jmctext,#gbctext {
+  color: mediumpurple;
+}
+
+#o-pie {
+  height: 300px;
+  width: 250px;
+  border-radius: 50%;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+#br {
+  height: 300px;
+  width: 250px;
+  border-radius: 20%;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+#sesamepastry {
+  height: 300px;
+  width: 250px;
+  border-radius: 50%;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+#tiered-cake{
+  height: 300px;
+  width: 250px;
+  border-radius: 30%;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+#frosted-cookie {
+  height: 300px;
+  width: 250px;
+  border-radius: 90%;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+#lemon-pudding {
+  height: 300px;
+  width: 250px;
+  border-radius: 50%;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+#o-cheesecake {
+  height: 300px;
+  width: 250px;
+  border-radius: 30%;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+#pumpkinpie {
+  height: 300px;
+  width: 250px;
+  border-radius: 10%;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+#puffed-bread-pastry {
+  height: 300px;
+  width: 250px;
+  border-radius: 50%;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+#baked-bright-donuts {
+  height: 300px;
+  width: 250px;
+  border-radius: 30%;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+#fruit-tart {
+  height: 300px;
+  width: 250px;
+  border-radius: 50%;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+#baked-milk {
+  height: 300px;
+  width: 250px;
+  border-radius: 90%;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+#cracker{
+  height: 300px;
+  width: 250px;
+  border-radius: 30%;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+#bagel {
+  height: 300px;
+  width: 250px;
+  border-radius: 50%;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+#applepie{
+  height: 300px;
+  width: 250px;
+  border-radius: 20%;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+#flatbread{
+  height: 300px;
+  width: 250px;
+  border-radius: 90%;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+#pita-bread {
+  height: 300px;
+  width: 250px;
+  border-radius: 50%;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+#mango-custard {
+  height: 300px;
+  width: 250px;
+  border-radius: 70%;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+#layered-cake {
+  height: 300px;
+  width: 250px;
+  border-radius: 80%;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+#powdered-bread-puff {
+  height: 300px;
+  width: 250px;
+  border-radius: 50%;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+#creampastry {
+  height: 300px;
+  width: 250px;
+  border-radius: 40%;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+#cinnamonbun {
+  height: 300px;
+  width: 250px;
+  border-radius: 90%;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+#jamcracker{
+  height: 300px;
+  width: 250px;
+  border-radius: 50%;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+#gingerbreadcookie {
+  height: 300px;
+  width: 250px;
+  border-radius: 70%;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+* {
+  margin: 10px;
+}
+div {
+  display: inline-block;
+}
+
+body {
+  background:lemonchiffon
+}
+ img {
+   border: 8px outset blueviolet;
+ }
